@@ -1,0 +1,22 @@
+{
+  "name": "react-threejs",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "reset-css": "^5.0.1",
+    "three": "^0.134.0",
+    "vite-plugin-fonts": "^0.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.0",
+    "saas": "^1.0.0",
+    "sass": "^1.43.4",
+    "vite": "^2.6.4"
+  }
+}
